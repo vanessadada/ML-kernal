@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "functional.h": "c",
+        "matrix_ops.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    }
+}
